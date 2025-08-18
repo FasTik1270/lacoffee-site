@@ -1030,4 +1030,15 @@ input[type="checkbox"] {
     .card5-obs{
         gap: 60px;
     }
+    .btn-sect1, .btn{
+        color: #000000;
+    }
+    .modal-content, 
+    .modal-content2, 
+    .modal-content3 {
+        margin: 0 auto;
+    }
+    .nav::after {
+        width: 0%;
+    }
 }
